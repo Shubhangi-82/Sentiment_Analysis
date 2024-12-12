@@ -101,7 +101,7 @@ The dataset used in this project is [sentimentdataset.csv](https://github.com/us
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Shubhangi-82/sentiment-analysis-project.git
+   git clone https://github.com/Shubhangi-82/Sentiment-Analysis-Project.git
    ```
 
 2. Install dependencies:
