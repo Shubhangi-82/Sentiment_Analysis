@@ -1,8 +1,5 @@
-# Brainwave_Matrix_Interns
+# Sentiment_Analysis_Project.
 
-Sentiment_Analysis_Project.
-
-# Sentiment Analysis Project
 
 ## Overview
 
